@@ -1,7 +1,9 @@
 """Самописный калькулятор"""
 a = int(input())
 b = int(input())
+
 print("Уточните операцию + - * /")
+
 c = input()
 if c == "+":
     print(a + b)
