@@ -19,3 +19,4 @@ elif d == 0:
 elif d > 0:
     print(min(x1, x2))
     print(max(x1, x2))
+    print(___________)
